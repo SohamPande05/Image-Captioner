@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS and Linux system files
+.DS_Store
+*.swp
+*~
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Test / coverage tools
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+coverage.xml
+htmlcov/
+nosetests.xml
+*.cover
+*.py,cover
+
+# Packaging/build
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+MANIFEST
+pip-wheel-metadata/
+
+# Logs and local data
+*.log
+*.sqlite3
+*.db
+
+# Environment variables and secrets
+.env
+.env.*
+*.secret
+secrets.json
+
+# Temporary files
+*.bak
+*.tmp
+*.orig
+
+# Captions output
+captions.txt
